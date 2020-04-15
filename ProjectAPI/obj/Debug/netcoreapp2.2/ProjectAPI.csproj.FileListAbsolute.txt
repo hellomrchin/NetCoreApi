@@ -1,0 +1,14 @@
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.deps.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.runtimeconfig.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.runtimeconfig.dev.json
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.dll
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.csprojAssemblyReference.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorAssemblyInfo.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorAssemblyInfo.cs
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.AssemblyInfoInputs.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.AssemblyInfo.cs
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.RazorTargetAssemblyInfo.cache
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\bin\Debug\netcoreapp2.2\ProjectAPI.pdb
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.dll
+C:\Users\Ryokm\Documents\Visual Studio 2017\Projects\ProjectAPI\ProjectAPI\obj\Debug\netcoreapp2.2\ProjectAPI.pdb
